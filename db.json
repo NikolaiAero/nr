@@ -1,1 +1,56 @@
-[{"id":1,"tel_number":5866,"type":"person","white_list":false,"data. Surname":"Петров","data. Name":"Алина","data. Patronymic":"Викторовна"},{"id":2,"tel_number":4183,"type":"person","white_list":true,"data. Surname":"Гильманов","data. Name":"Вера","data. Patronymic":"Николаевна"},{"id":3,"tel_number":5819,"type":"person","white_list":false,"data. Surname":"Петровский","data. Name":"Алина","data. Patronymic":"Фатиховна"},{"id":4,"tel_number":5925,"type":"person","white_list":true,"data. Surname":"Козырева","data. Name":"Ирина","data. Patronymic":"Хосеевна"},{"id":5,"tel_number":4338,"type":"person","white_list":false,"data. Surname":"Носов","data. Name":"Юлия","data. Patronymic":"Валерьевна"},{"id":6,"tel_number":4591,"type":"person","white_list":false,"data. Surname":"Седяхина","data. Name":"Сергей","data. Patronymic":"Николаевич"},{"id":7,"tel_number":5991,"type":"person","white_list":true,"data. Surname":"Банникова","data. Name":"Алёна","data. Patronymic":"Владимировна"},{"id":8,"tel_number":5894,"type":"person","white_list":false,"data. Surname":"Костина","data. Name":"Елена","data. Patronymic":"Владимировна"},{"id":9,"tel_number":1111,"type":"person","white_list":true,"data. Surname":"Яковлева","data. Name":"Александр","data. Patronymic":"Александрович"},{"id":10,"tel_number":5872,"type":"person","white_list":false,"data. Surname":"Вальянова","data. Name":"Ирина","data. Patronymic":"Анатольевна"},{"id":11,"tel_number":5932,"type":"person","white_list":false,"data. Surname":"Оглоблина","data. Name":"Софья","data. Patronymic":"Викторовна"},{"id":12,"tel_number":5911,"type":"person","white_list":true,"data. Surname":"Шутикова","data. Name":"Владимир","data. Patronymic":"Игоревич"},{"id":13,"tel_number":5832,"type":"person","white_list":false,"data. Surname":"Соловьева","data. Name":"Станислав","data. Patronymic":"Александрович"},{"id":14,"tel_number":5873,"type":"person","white_list":true,"data. Surname":"Черемисина","data. Name":"Татьяна","data. Patronymic":"Сергеевна"},{"id":15,"tel_number":4871,"type":"person","white_list":false,"data. Surname":"Силаев","data. Name":"Ирина","data. Patronymic":"Игоревна"},{"id":16,"tel_number":5874,"type":"person","white_list":false,"data. Surname":"Счастьева","data. Name":"Сергей","data. Patronymic":"Адольфович"},{"id":17,"tel_number":4628,"type":"person","white_list":true,"data. Surname":"Шакиров","data. Name":"Лариса","data. Patronymic":"Борисовна"},{"id":18,"tel_number":5835,"type":"person","white_list":false,"data. Surname":"Белинская","data. Name":"Денис","data. Patronymic":"Юрьевич"},{"id":19,"tel_number":4147,"type":"person","white_list":true,"data. Surname":"Ефремова","data. Name":"Мария","data. Patronymic":"Николаевна"},{"id":20,"tel_number":5933,"type":"person","white_list":false,"data. Surname":"Журав","data. Name":"Елена","data. Patronymic":"Владимировна"},{"id":21,"tel_number":2222,"type":"person","white_list":false,"data. Surname":"Башилова","data. Name":"Виктория","data. Patronymic":"Владимировна"},{"id":22,"tel_number":4237,"type":"person","white_list":true,"data. Surname":"Черемисина","data. Name":"Андрей","data. Patronymic":"Андреевич"},{"id":23,"tel_number":5830,"type":"person","white_list":false,"data. Surname":"Головкин","data. Name":"Константин","data. Patronymic":"Геннадьевич"},{"id":24,"tel_number":4002,"type":"person","white_list":true,"data. Surname":"Быковская","data. Name":"Елена","data. Patronymic":"Васильевна"},{"id":25,"tel_number":5834,"type":"person","white_list":false,"data. Surname":"Промыслова","data. Name":"Игорь","data. Patronymic":"Рашидович"},{"id":26,"tel_number":5942,"type":"person","white_list":false,"data. Surname":"Голубец","data. Name":"Дмитрий","data. Patronymic":"Николаевич"},{"id":27,"tel_number":5846,"type":"person","white_list":true,"data. Surname":"Вавилова","data. Name":"Сергей","data. Patronymic":"Владимирович"},{"id":28,"tel_number":5874,"type":"person","white_list":false,"data. Surname":"Нестеренко","data. Name":"Елена","data. Patronymic":"Анатольевна"},{"id":29,"tel_number":5895,"type":"person","white_list":true,"data. Surname":"Кирдяшова","data. Name":"Елена","data. Patronymic":"Александровна"},{"id":30,"tel_number":5834,"type":"person","white_list":false,"data. Surname":"Шутикова","data. Name":"Анна","data. Patronymic":"Николаевна"},{"id":31,"tel_number":5915,"type":"person","white_list":false,"data. Surname":"Токарев","data. Name":"Елена","data. Patronymic":"Вадимовна"},{"id":32,"tel_number":5921,"type":"person","white_list":true,"data. Surname":"Шульга","data. Name":"Туяна","data. Patronymic":"Сергеевна"},{"id":33,"tel_number":5895,"type":"person","white_list":false,"data. Surname":"Козодаева","data. Name":"Александр","data. Patronymic":"Станиславович"},{"id":34,"tel_number":5854,"type":"person","white_list":true,"data. Surname":"Петровский","data. Name":"Светлана","data. Patronymic":"Юрьевна"},{"id":35,"tel_number":5897,"type":"person","white_list":false,"data. Surname":"Зубашеч","data. Name":"Артем","data. Patronymic":"Рудольфович"},{"id":36,"tel_number":4554,"type":"person","white_list":false,"data. Surname":"Свиридов","data. Name":"Екатерина","data. Patronymic":"Андреевна"},{"id":37,"tel_number":4023,"type":"person","white_list":true,"data. Surname":"Вавилова","data. Name":"Татьяна","data. Patronymic":"Вениаминовна"},{"id":38,"tel_number":5852,"type":"person","white_list":false,"data. Surname":"Михайляк","data. Name":"Лариса","data. Patronymic":"Михайловна"},{"id":39,"tel_number":5914,"type":"person","white_list":true,"data. Surname":"Алексеева","data. Name":"Елена","data. Patronymic":"Алексеевна"},{"id":40,"tel_number":4023,"type":"person","white_list":false,"data. Surname":"Собакин","data. Name":"Екатерина","data. Patronymic":"Станиславовна"},{"id":41,"tel_number":5875,"type":"person","white_list":false,"data. Surname":"Морскова","data. Name":"Марина","data. Patronymic":"Юрьевна"},{"id":42,"tel_number":5844,"type":"person","white_list":true,"data. Surname":"Павлов","data. Name":"Ирина","data. Patronymic":"Александровна"},{"id":43,"tel_number":4451,"type":"person","white_list":false,"data. Surname":"Головкин","data. Name":"Наталия","data. Patronymic":"Николаевна"},{"id":44,"tel_number":5807,"type":"person","white_list":true,"data. Surname":"Буряков","data. Name":"Светлана","data. Patronymic":"Андреевна"},{"id":45,"tel_number":5937,"type":"person","white_list":false,"data. Surname":"Зверев","data. Name":"Никита","data. Patronymic":"Олегович"},{"id":46,"tel_number":5833,"type":"person","white_list":false,"data. Surname":"Кудасова","data. Name":"Инна","data. Patronymic":"Леонидовна"},{"id":47,"tel_number":4394,"type":"person","white_list":true,"data. Surname":"Тимошенко","data. Name":"Наталия","data. Patronymic":"Владимировна"}]
+[
+  {
+    "phone_number": 5866,
+    "is_available": true,
+    "reason_code": "",
+    "reason_message": ""
+  },
+  {
+    "phone_number": 4183,
+    "is_available": false,
+    "reason_code": 1,
+    "reason_message": "абонент занят"
+  },
+  {
+    "phone_number": 5819,
+    "is_available": true,
+    "reason_code": "",
+    "reason_message": ""
+  },
+  {
+    "phone_number": 5925,
+    "is_available": false,
+    "reason_code": 2,
+    "reason_message": "отдел закрылся"
+  },
+  {
+    "phone_number": 4338,
+    "is_available": true,
+    "reason_code": "",
+    "reason_message": ""
+  },
+  {
+    "phone_number": 4591,
+    "is_available": false,
+    "reason_code": 3,
+    "reason_message": "Абонент в отпуске"
+  },
+  {
+    "phone_number": 5991,
+    "is_available": true,
+    "reason_code": "",
+    "reason_message": ""
+  },
+  {
+    "phone_number": 5894,
+    "is_available": false,
+    "reason_code": 1,
+    "reason_message": ""
+  },
+  {
+    "phone_number": 1111,
+    "is_available": true,
+    "reason_code": "",
+    "reason_message": ""
+  }
+]
